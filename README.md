@@ -1,6 +1,7 @@
-<center><img src="Assets/DNA.gif" alt="drawing" width=50% height=50%/>
-<br>
-<h1> SARS-CoV-2-Clade-Identifier</h1></center>
+<p align="center">
+ <img src="Assets/DNA.gif" alt="drawing" width=50% height=50%/>
+</p>
+<h1 align='center'><i> SARS-CoV-2-Clade-Identifier</i></h1></center>
 This is the code repository for SARS-CoV-2 clade identifier with Single Nucleotide Polymorphisms (SNPs) data using machine learning.
 
 A project of the Philippine Genome Center's 2021 Internship Program. 
