@@ -11,7 +11,7 @@ Machine learning models trained in this notebook:
 - Multinomial Logistic Regression: **99.80%**
 - Random Forest Classifier: **99.87%** 
 - Support Vector Machine: **99.76%**
-- K Nearest Neighbors: **99.71**
+- K Nearest Neighbors: **99.71%**
 
 Classification and Cross Validation metrics are inside the notebook.
 
